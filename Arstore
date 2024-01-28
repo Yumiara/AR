@@ -1,0 +1,6 @@
+Fluent:Notify({
+    Title = "Error",
+    Content = "Script not avaiable",
+    SubContent = "discord.gg/ttjy", -- Optional
+    Duration = 5 -- Set to nil to make the notification not disappear
+})
